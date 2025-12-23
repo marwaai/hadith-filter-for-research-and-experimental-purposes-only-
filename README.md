@@ -1,8 +1,5 @@
-# marwaai
 
-Hadith Filtering & Research Tool **intended for research and experimental purposes only**
-
----
+# Hadith Filtering & Research Tool **intended for research and experimental purposes only**
 
 ## Description
 This repository contains tools to **scrape, filter, and experiment with Hadith datasets**, including potentially weak or fabricated Hadiths.  
