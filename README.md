@@ -1,6 +1,6 @@
 # marwaai
 
-ABKH: Hadith Filtering & Research Tool
+Hadith Filtering & Research Tool **intended for research and experimental purposes only**
 
 ---
 
